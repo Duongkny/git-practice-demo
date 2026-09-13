@@ -1,0 +1,6 @@
+Xin chào!
+
+Họ tên: Dương
+Vai trò: Team Leader
+
+Tôi đang thực hành Git workflow bằng Fork App.
